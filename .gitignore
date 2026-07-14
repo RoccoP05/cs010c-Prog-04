@@ -1,0 +1,17 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.gch
+*.out
+*.dat
+
+# Editor/IDE
+.vscode/
+.dist/
+.claude/
+
+# OS
+Thumbs.db
